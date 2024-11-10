@@ -1,23 +1,23 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "unlock"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "unlock"
 
 #your name
-author: "You"
+author: "试作型"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "Main"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "做原版零资源用的"
 
 #the mod version
 version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 146
 
 #this is a java mod
 java: true
